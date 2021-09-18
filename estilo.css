@@ -1,0 +1,19 @@
+h1{text-align: center; margin-left: 60px;font-family: Arial, Helvetica, sans-serif;
+    width:450px;
+background-color: rgb(87, 216, 115);}
+
+.principal{color:blue}
+
+p{margin-top:20px;
+    margin-left: 40px;
+     margin-right: 40px;
+text-align: center;
+background-color: cornflowerblue;
+}
+
+
+.conocimientos{color:red}
+
+OL{background-color: cornflowerblue;
+    margin-left: 200px;
+    margin-right: 220px;}
